@@ -1,0 +1,135 @@
+
+Word: stethoscope
+Translation: estetoscopio
+Notes: here are notes
+
+
+Word: reparar
+Translation: to repair, to fix
+Notes: mostly used for repair
+
+
+Word: barrer
+Translation: to sweep
+Notes: babadook
+
+
+Word: es eso logico
+Translation: does that make sense
+Notes: none
+
+
+Word: selva
+Translation: jungle
+Notes: none
+
+
+Word: cima
+Translation: summit, peak
+Notes: none
+
+
+Word: lealtad
+Translation: loyalty
+Notes: none
+
+
+Word: sobrevivir
+Translation: to survive
+Notes: none
+
+
+Word: desamor
+Translation: lack of affection
+Notes: none
+
+
+Word: alimentar
+Translation: to feed
+Notes: none
+
+
+Word: cinturon
+Translation: belt
+Notes: none
+
+
+Word: cometido
+Translation: task
+Notes: none
+
+
+Word: casar
+Translation: to marry
+Notes: none
+
+
+Word: comprometido
+Translation: comitted, engaged
+Notes: none
+
+
+Word: fuente
+Translation: fountain
+Notes: none
+
+
+Word: mezclar
+Translation: to mix, to blend
+Notes: none
+
+
+Word: terrestre
+Translation: land, ground
+Notes: none
+
+
+Word: sucia
+Translation: dirty
+Notes: sort of insulting
+
+
+Word: lastimar
+Translation: to hurt
+Notes: can be physical or emotional
+
+
+Word: estomago
+Translation: stomach
+Notes: none
+
+
+Word: estudiante
+Translation: student
+Notes: none
+
+
+Word: oficial
+Translation: official
+Notes: none
+
+
+Word: enfermo
+Translation: sick
+Notes: none
+
+
+Word: huesos
+Translation: bones
+Notes: none
+
+
+Word: funeral
+Translation: funeral
+Notes: none
+
+
+Word: caja de ramienta
+Translation: tool box
+Notes: none
+
+
+Word: vainilla
+Translation: vanilla
+Notes: none
+
